@@ -1,6 +1,6 @@
 # Creating variables nom and age
-name = "John"
-age = 25
+name = "Ed"
+age = 55
 
 # Displaying the sentence with the variables
 print(f"My name is {name} and I am {age} years old.")
